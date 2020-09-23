@@ -3,7 +3,7 @@ This Repository Contains All the Things I Learned in This Specialization and als
 
 The First Course In this specialization is The Introduction to programming course.
 
-1. **[Programming for Everybody (Getting Started with Python)  ~  README file link]()**
+1. **[Getting Started with Python  ~  README file link]()**
 
 [Click here for course website](https://www.coursera.org/learn/python?specialization=python)
 
